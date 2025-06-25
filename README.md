@@ -1,4 +1,5 @@
 # Quantium Data Analytics Simulation 
+Project Scope: A data analytics job simulation involving transaction dataset analysis, benchmark store identification for uplift testing, and comprehensive reporting to support strategic commercial decisions.
 ## Task One: Data preparation and customer analytics
 ### Conduct analysis on client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 ### Key actions:
