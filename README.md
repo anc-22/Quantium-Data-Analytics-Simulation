@@ -136,33 +136,6 @@ def calculate_uplift(trial_sales, control_sales, scaling_factor):
 - **Time series analysis**: Identifying seasonal patterns
 - **Affinity indexing**: Understanding segment preferences
 
-## 📁 Repository Structure
-
-```
-quantium-retail-analytics/
-├── data/
-│   ├── QVI_purchase_behaviour.csv
-│   └── QVI_transaction_data.xlsx
-├── notebooks/
-│   ├── Task1_Data_Preparation_Customer_Analytics.ipynb
-│   ├── Task2_Experimentation_Uplift_Testing.ipynb
-│   └── Task3_Report_Preparation.ipynb
-├── reports/
-│   ├── figures/
-│   │   ├── customer_segmentation.png
-│   │   ├── sales_trends.png
-│   │   └── trial_store_performance.png
-│   ├── QVI_Task_1.pdf
-│   ├── QVI_Task_2.pdf
-│   └── QVI_Task_3.pdf
-├── src/
-│   ├── data_cleaning.py
-│   ├── customer_analytics.py
-│   ├── store_matching.py
-│   └── visualization.py
-├── README.md
-└── requirements.txt
-```
 
 ## 🛠️ Setup Instructions
 
